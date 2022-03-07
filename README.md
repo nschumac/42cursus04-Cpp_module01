@@ -9,7 +9,7 @@ This module introduces us to memory allocation, references, pointers to members 
 - run each program and see what they do xd
 
 ## Subject:
-[cpp_module01_subject](https://github.com/nschumac/42cursus04-Cpp_module00/blob/main/subject/cpp_module01-en.pdf)
+[cpp_module01_subject](https://github.com/nschumac/42cursus04-Cpp_module01/blob/main/subject/cpp_module01-en.pdf)
 
 ## Result:
 - Status: <span style="color:green">Completed</span>
